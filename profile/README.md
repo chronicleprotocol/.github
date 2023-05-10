@@ -1,5 +1,7 @@
 
-[![Chronicle Logo](https://cdn.chroniclelabs.io/assets/logo-title-green.png "chronicle")](https://chroniclelabs.org)
+<p align="center">
+  <img src="https://cdn.chroniclelabs.io/assets/logo-title-green.png" />
+</p>
 
 ### ****Description****
 
