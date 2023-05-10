@@ -1,7 +1,7 @@
 
 [![Chronicle Logo](https://cdn.chroniclelabs.io/assets/logo-title-green.png "chronicle")](https://chroniclelabs.org)
 
-**Description**
+### ****Description****
 
 On-chain Oracles are limited by their ability to scale, particularly on Ethereum. They are relatively inaccessible, bottlenecked by engineering teams, and, most notably, they lack transparency and true decentralization. Deploying a proprietary solution, Chronicle Protocol solves all of these limitations. 
 
@@ -10,9 +10,10 @@ Chronicle Protocol is redefining ubiquitous access to verifiable data. Users can
 Since 2017, Chronicle has secured over $10B for DeFi’s largest lending protocol, MakerDAO. And now, for the first time, Chronicle’s market-leading features are available to all Web3 builders anytime, anywhere.
 
 
-**********Links**********
+### ****Links****
 
 - [https://chroniclelabs.org/](https://chroniclelabs.org/)
+- [Chronicle TVS @ DefiLama](https://defillama.com/oracles/Chronicle)
 - [Twitter](https://twitter.com/ChronicleLabs)
 - [Discord](https://discord.com/invite/CjgvJ9EspJ)
 - [LinkedIn](https://www.linkedin.com/company/chronicle-labs/)
