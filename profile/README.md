@@ -6,9 +6,11 @@
 
 ### ****Description****
 
-On-chain Oracles are limited by their ability to scale, particularly on Ethereum. They are relatively inaccessible, bottlenecked by engineering teams, and, most notably, they lack transparency and true decentralization. Deploying a proprietary solution, Chronicle Protocol solves all of these limitations. 
+Oracles are integral to the transmission of data on-chain, facilitating the cutting-edge of decentralized finance, yet Oracle innovation has, comparatively, progressed very little. 
 
-Chronicle Protocol is redefining ubiquitous access to verifiable data. Users can deploy Oracles and call for updated data at the click of a button, verify where every element of data has come from using the Chronicle Explorer, and plug and play with any blockchain in a self-serve, decentralized framework. 
+On-chain Oracles are limited by their ability to scale, particularly on Ethereum. They are relatively inaccessible, bottlenecked by engineering teams, and, most notably, they lack transparency and true decentralization. Deploying a proprietary solution, Chronicle Protocol alleviates many of these limitations. 
+
+Chronicle Protocol is redefining access to cost-efficient and verifiable data. Users can deploy & undeploy Oracles on-demand utilizing on-chain payment & subscriptions, call for updated data at the click of a button, verify where every element of data has come from in a (verifiably) censorship-free environment, and plug and play with any supported blockchain via the self-serve, decentralized Dashboard. 
 
 Since 2017, Chronicle has secured over $10B for DeFi’s largest lending protocol, MakerDAO. And now, for the first time, Chronicle’s market-leading features are available to all Web3 builders anytime, anywhere.
 
