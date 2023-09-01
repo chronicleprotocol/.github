@@ -35,6 +35,8 @@ Since 2017, Chronicle has secured over $10B for DeFi’s largest lending protoco
 <a href="https://medium.com/@ChronicleProtocol"><img src="https://img.shields.io/badge/medium-%4720891.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.linkedin.com/company/chronicle-labs/"><img src="https://img.shields.io/badge/linkedin-%4720891.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hello@chroniclelabs.org"><img src="https://img.shields.io/badge/-Email%20Us-%4720891?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://docs.chroniclelabs.org"><img src="https://img.shields.io/badge/-Documentation%20-%4720891?&style=for-the-badge&logo=gitbook&logoColor=white"/></a>
+
 
 </p>
 
